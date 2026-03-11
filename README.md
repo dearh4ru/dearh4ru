@@ -1,7 +1,5 @@
-`Deathwish.`
----
-https://h4ru.me
+Deathwish.
 
-https://h4ru.dev
+---
 
 haru@h4ru.me
